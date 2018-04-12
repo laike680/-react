@@ -1,0 +1,88 @@
+.customizedBox{
+	text-align: left;
+}
+.customizedHade h5{
+	text-align: center;
+	height: 11.5vw;
+	line-height:6vw;
+	font-size: 5vw;
+}
+.customizedHade h5 b{
+	float: left;
+}
+.returnBtn{
+	float: left;
+	background-color: #fff;
+}
+.tijiaojianliBox{
+	position: fixed;
+	bottom: 0vw;
+	height: 18vw;
+	width: 100vw;
+	background-color: #fff;
+}
+.tijiaojianli{
+	width: 90vw;
+	margin-top: 3vw;
+	margin-left: 5vw;
+}
+.customizedPositionName{
+	height: 10vw;
+	padding: 2vw;
+	font-size: 4.5vw;
+	font-weight: 600;
+	border-bottom: 0.2vw solid #ccc;
+}
+.customizedMssg{
+	height: 20vw;
+	display: flex;
+	flex-wrap:wrap;
+
+}
+.customizedMssg div{
+	width: 30vw;
+	height: 10vw;
+	line-height: 10vw;
+	text-align: center;
+}
+.customizedYouhuo{
+	padding: 2vw;
+	height: 10vw;
+	text-indent: 1em;
+	color: #aaa;
+	border-bottom: 0.2vw solid #ccc;
+}
+.customizedworkbox{
+	height: 20vw;
+}
+.customizedworklogo{
+	float: left;
+	width: 16vw;
+	height: 16vw;
+	margin-left: 5vw;
+	margin-right: 5vw;
+}
+.customizedworktitle{
+	font-weight: 600 !important;
+	font-size: 4.5vw;
+	color:#00b38a;
+}
+.customizedworkbox p{
+	color: #888;
+}
+.customizedworkjieshao{
+	font-size: 3vw;
+	min-height: 40vw;
+
+}
+.customizedworkjieshao dt{
+	padding-left: 3vw;
+	background-color:#00b38a;
+	font-size: 4vw;
+	color: #fff;
+	height: 10vw;
+	line-height: 10vw;
+}
+.customizedworkjieshao dd{
+	padding: 5vw;
+}

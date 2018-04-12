@@ -1,0 +1,14 @@
+.registermian{
+	width: 100vw;
+	padding: 8vw;
+}
+.zezhao{
+	position: fixed;
+	width: 100vw;
+	height: 20vw;
+	bottom: 0;
+	background-color: #fff;
+}
+.registermian p{
+	margin-top: 10vw;
+}

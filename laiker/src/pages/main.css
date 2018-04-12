@@ -1,0 +1,58 @@
+.mainbox{
+	padding: 4vw;
+}
+
+.mainLogin{
+	margin: 0 auto 12vw;
+	width:30vw;
+	height: 12vw;
+	text-align: center;
+	line-height: 12vw;
+	background-color: #00b38a;
+	color: #fff;
+}
+.mainProject{
+	display: flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.mainProject div{
+	width: 40vw;
+	height: 20vw;
+	background-color: #00b38a;
+	float: left;
+	margin-bottom: 8vw;
+	line-height: 20vw;
+	font-size: 5vw;
+	color: #fff;
+}
+.maintouxingbox{
+	width:30vw;
+	height:30vw;
+	margin: 0 auto;
+	border-radius: 15vw;
+	overflow: hidden;
+	
+}
+.maintouxingimg{
+	width:30vw;
+	height:30vw;
+}
+.maintouxingp{
+	text-align: center;
+	margin-bottom:10vw; 
+}
+.mainoutlgoin{
+	width:80vw;
+	margin: 0 auto;
+	height: 12vw;
+	line-height: 12vw;
+	background-color: #00b38a;
+	font-size: 4.5vw;
+	color: #fff;
+}
+.mainjianli{
+	color: #00b38a;
+	font-weight: 600;
+	text-align: right;
+}

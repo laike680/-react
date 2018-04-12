@@ -1,0 +1,15 @@
+.area_code_list{
+	text-align: left;
+	height: 100%;
+	padding: 5vw;
+	font-size: 4vw;
+}
+.area_code_list dt{
+	height: 10vw;
+}
+.area_code_list dd{
+	height: 10vw;
+}
+.area_code_list .tips{
+	text-align: center;
+}

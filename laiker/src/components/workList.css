@@ -1,0 +1,43 @@
+li{
+	list-style: none;
+}
+.worklist-item{
+	height: 30vw;
+	border-bottom: 0.2vw solid #ccc;
+	padding: 5vw;
+}
+.worklist-logo{
+	height: 18vw;
+	width: 18vw;
+	float: left;
+	margin-right: 3vw;
+	margin-top: 1vw;
+	margin-left: 1vw;
+}
+.worklist-desc{
+	text-align: left;
+	height: 20vw;
+}
+.worklist-title{
+	font-weight: 600;
+	margin: 0;
+}
+.worklist-info{
+	padding-top: 3vw;
+	overflow: hidden;
+	margin: 0;
+}
+.worklist-pos{
+	float: left;
+	width:40vw;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.worklist-salary{
+	float: right;
+	color:#00b38a;
+}
+.worklist-time{
+	color: #aaa;
+}

@@ -1,0 +1,79 @@
+.loginmian{
+padding: 8vw;
+}
+input{
+	outline: none;
+}
+.loginHead{
+	height: 25vw;
+	padding-top: 2vw;
+}
+.loginHead h4{
+	float: left;
+	font-size: 5vw;
+}
+.loginHead h5{
+	float: right;
+	margin-top: 3vw;
+	font-size: 4vw;
+	color:#00b38a !important;
+}
+
+
+.username{
+	width: 100%;
+	height:14vw;
+	font-size: 4.5vw;
+	border: 0;
+}
+.pwd{
+	width: 100%;
+	height:14vw;
+	border: 0;
+	font-size: 4.5vw;
+}
+.btnLogin{
+	width: 100%;
+	height: 12vw;
+	font-size: 4.5vw;
+	margin-top: 10vw;
+	background-color: #00b38a;
+	color: #fff;
+	outline: none !important;
+}
+.form-group{
+	border-bottom: 0.3vw solid #ccc;
+	text-align: left;
+}
+.shoujilogin span{
+	font-size: 4vw;
+	margin-right: 4vw;
+}
+.shoujilogin img{
+	height: 14vw;
+}
+.phoneNumber{
+	width: 60%;
+	height:14vw;
+	border: 0;
+	font-size: 4.5vw;
+}
+.yangzhengma{
+	width: 65%;
+	height:14vw;
+	border: 0;
+	font-size: 4.5vw;
+}
+.shoujiyanzhengma{
+	width: 70%;
+	height:14vw;
+	border: 0;
+	font-size: 4.5vw;
+}
+._shojibtn,._mimabtn{
+	width:20vw;
+	position: fixed;
+	bottom:6vw;
+	left: 6vw;
+	color:#00b38a !important;
+}

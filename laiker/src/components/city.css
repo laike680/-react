@@ -1,0 +1,23 @@
+.cityBox{
+	overflow: auto;
+	height:148vw;
+}
+
+.citytr{
+	height: 12vw;
+	display: flex;
+	line-height: 12vw;
+}
+.citytd{
+	width: 30vw;
+
+}
+.cityItemhead{
+	padding-left: 5vw;
+	text-align: left;
+	color: #aaa;
+}
+.cityItem{
+	border-bottom: 0.2vw solid #ccc;
+	border-top: 0.2vw solid #ccc;
+}

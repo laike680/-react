@@ -1,0 +1,21 @@
+
+.linesearch{
+	height: 10vw;
+	border-bottom: 0.2vw solid #ccc;
+	text-align: left;
+	line-height: 10vw;
+	padding: 0 5vw 0;
+	font-size: 4vw;
+}
+.linesearch b{
+	float: right;
+}
+.searchinput{
+	border: 0;
+	margin-left: 3vw;
+}
+.linesearch button{
+	float: right;
+	outline: none !important;;
+	border: 0;
+}

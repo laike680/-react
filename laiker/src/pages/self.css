@@ -1,0 +1,69 @@
+.selfoot{
+	height: 10vw;
+	background-color: #00b38a !important;
+}
+.selfoot li{
+	
+	color: #fff;
+	font-size: 4.5vw;
+}
+.selfmainBox{
+	padding: 5vw;
+}
+.selfmainBox dl{
+	height: 22vw;
+}
+.selfmainBox dl dt{
+	height: 5vw;
+	text-align: left;
+	font-size: 3vw;
+	color: #ccc;
+}
+.selfmainBox dl dd{
+	height: 15vw;
+	line-height: 15vw;
+	background-color: #eee;
+	color: #000 !important;
+}
+.selftishibiaoti{
+	height: 30vw;
+	background-color: #eee;
+	position: relative;
+	top:-5vw;
+	line-height: 30vw;
+	font-size: 6vw;
+	color:  #00b38a ;
+}
+.selfinput{
+	height: 10vw;
+	line-height: 10vw;
+	border-bottom: 0.2vw solid #ccc;
+}
+.selfinput input{
+	width: 80vw;
+	outline: none;
+	height: 8vw;
+	border: 0;
+	padding-left: 5vw;
+}
+.selfinput span{
+	display: inline-block;
+	width: 20vw;
+	color: #ccc;
+	border: 0.2vw solid #ccc;
+	border-bottom: 0;
+	border-right: 0;
+	font-size: 4vw;
+}
+.selfzhiweiBox ul li{
+	font-size: 4vw;
+	height: 12vw;
+	line-height: 12vw;
+	border-bottom: 0.2vw solid #eee;
+	text-align: left;
+	padding-left: 5vw;
+}
+.selfzhiweiBox ul li span{
+	font-size: 2vw;
+	color: #ccc;
+}
